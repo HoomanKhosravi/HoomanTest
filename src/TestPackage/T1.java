@@ -8,7 +8,7 @@ public class T1 {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		testing!!!!!
 	}
 
 }

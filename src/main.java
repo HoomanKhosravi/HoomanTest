@@ -4,4 +4,5 @@ public class main {
         System.out.println("Hello Everyone"); // Display the string.
         
     }
+	public method
 }
